@@ -1,4 +1,4 @@
-const API_URL = 'https://creative-director-backend.onrender.com';
+const API_URL = 'https://creative-director-backend.onrender.com/api';
 
 const getHeaders = () => ({
   'Content-Type': 'application/json',
